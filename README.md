@@ -55,8 +55,7 @@
       At <strong>HYDROTECH</strong>, your peace of mind is our priority. Whether you're facing a leakage problem or need preventive waterproofing, we’re here to provide effective solutions with zero compromise on quality.
     </p>
     <p><em>Let’s keep your space dry, safe, and secure — for today and tomorrow.</em></p>
-    
-    <p><em>Let’s keep your space dry, safe, and secure — for today and tomorrow.</em></p>
+
 </div>
 
   <!-- Services Section -->
