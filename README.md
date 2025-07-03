@@ -38,11 +38,9 @@
     </button>
   </form>
 </section>
-    </p>
     <!-- Why Choose Us Section -->
  <div class="text-center">
     <p class="text-2xl font-bold mb-4">Why Choose Us?</p>
-</ul>
     <div class="text-center">
       <ul class="list-disc list-inside text-gray-700 inline-block text-left">
         <li>Experienced & Skilled Professionals</li>
