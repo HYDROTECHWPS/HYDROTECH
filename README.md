@@ -91,7 +91,7 @@
 <section id="about" class="py-16 px-6 max-w-4xl mx-auto text-center">
     <h2 class="text-3xl font-bold mb-4">About Us</h2>
     <p class="mb-4">
-      At <strong>HYDROTECH</strong>, we specialize in providing <strong>advanced waterproofing solutions</strong> that protect homes, businesses, and infrastructure from water damage and moisture-related issues. With years of hands-on experience, our team is dedicated to delivering reliable, long-lasting, and cost-effective services tailored to every client’s needs.
+      At <strong>HYDROTECH</strong>, we specialize in providing <strong>Advanced waterproofing solutions</strong> that protect homes, businesses, and infrastructure from water damage and moisture-related issues. With years of hands-on experience, our team is dedicated to delivering reliable, long-lasting, and cost-effective services tailored to every client’s needs.
     </p>
     <p class="mb-4">
       We understand how crucial a dry, damage-free environment is — whether it's a residential building, commercial property, or industrial facility. That’s why we use the latest technologies, premium-grade materials, and proven methods to ensure top-notch results every time.
