@@ -20,4 +20,3 @@ HYDROTECH specializes in delivering **advanced waterproofing solutions** to prot
 /
 ├── index.html        # Main HTML file (website content)
 └── README.md         # This file
-# HYDROTECH
