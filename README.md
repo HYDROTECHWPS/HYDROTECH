@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="google-site-verification" content=google5b7b23c5d4310b86.html />
   <title>HYDROTECH Waterproofing Solutions</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
