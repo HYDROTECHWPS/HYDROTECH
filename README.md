@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>HYDROTECH Waterproofing Solutions</title>
-  <meta name="google-site-verification" content="google5b7b23c5d4310b86" />
+  <meta name="google-site-verification" content="uohmTrwbvGhlRq4ArGRaicuRaWYwWpQtf9GHc9rNBi0" />
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-50 text-gray-800">
